@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A844F7&width=435&lines=Hi+there%2C+my+name+is+Lucas)](https://git.io/typing-svg)
 
-Sou um estudante da Universidade Católica de Pernambuco cursando Ciências da Computação no 4º período
+*Sou um estudante da Universidade Católica de Pernambuco cursando Ciências da Computação*
 
 ![lucas2020109662's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas2020109662&theme=aura&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2020109662&theme=aura&show_icons=true)](https://github.com/lucas2020109662/github-readme-stats)
