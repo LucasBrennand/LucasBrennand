@@ -9,10 +9,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align"center" alt="Lucas' Gmail" height="40" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img align"center" alt="Lucas' Linkedln" height="40" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img align"center" alt="Lucas' Discord" height="40" width="80" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img align"center" alt="Lucas' Instagram" height="40" width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align"center" alt="Lucas' Gmail" height="25" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align"center" alt="Lucas' Linkedln" height="25" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align"center" alt="Lucas' Discord" height="25" width="80" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img align"center" alt="Lucas' Instagram" height="25" width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
 
 <!--
