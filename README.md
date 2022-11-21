@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2020109662)](https://github.com/lucas2020109662/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A844F7&width=435&lines=Hi+there%2C+my+name+is+Lucas)](https://git.io/typing-svg)
+
+![lucas2020109662's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas2020109662&theme=aura&show_icons=true)
 
 <!--
 **lucas2020109662/lucas2020109662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
