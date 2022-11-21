@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/lucas-brennand-9121b2205/ "> 
-  <img align"left" alt="Lucas's Gmail" width"22px" src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" targets="_blank" />
+  <img align"left" alt="Lucas's Gmail" width"22px" height"22px" src="https://img.icons8.com/color/512/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-brennand-9121b2205/ "> 
   <img align"left" alt="Lucas's LinkedIN" width"22px" src="https://user-images.githubusercontent.com/100360881/203065494-7b734a7e-86e4-4326-9e34-520c3b8ca3d8.png" />
