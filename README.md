@@ -2,6 +2,14 @@
 
 *Sou um estudante da Universidade Católica de Pernambuco cursando Ciências da Computação*
 
+<div style="display: inline_block"><br>
+  ✨ Estou procurando estágio! <br /> <br />
+  Meu Currículo:
+  <img align"left" alt="Lucas' CV" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/1412/1412267.png" />
+ </div>
+ 
+ ##
+
 <div>
   <a href="https://github.com/lucas2020109662">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas2020109662&theme=aura&show_icons=true"/>
