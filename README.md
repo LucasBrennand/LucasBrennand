@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2020109662)](https://github.com/lucas2020109662/github-readme-stats)
 
 <!--
 **lucas2020109662/lucas2020109662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
