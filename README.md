@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/lucas2020109662">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas2020109662&theme=aura&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2020109662&theme=aura&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrennand&theme=aura&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrennand&theme=aura&show_icons=true"/>
 </div>
 
 <div style="display: inline_block"><br>
