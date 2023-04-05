@@ -11,7 +11,7 @@
  ##
 
 <div>
-  <a href="https://github.com/lucas2020109662">
+  <a href="https://github.com/LucasBrennand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrennand&theme=aura&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrennand&theme=aura&show_icons=true"/>
 </div>
