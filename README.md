@@ -3,9 +3,8 @@
 *Sou um estudante da Universidade Católica de Pernambuco cursando Ciências da Computação*
 
 <div style="display: inline_block"><br>
-  ✨ Estou procurando estágio! <br /> <br />
-  Meu Currículo:
-  <a href="https://i.imgur.com/weFx2E2.jpg" target="_blank"> <img align"left" alt="Lucas' CV" height="60" width="80" img src="https://cdn-icons-png.flaticon.com/512/1412/1412267.png">
+  ✨ Meu Currículo: <br /> <br />
+  <a href="https://i.imgur.com/dAy4Oog.jpg" target="_blank"> <img align"left" alt="Lucas' CV" height="60" width="80" img src="https://cdn-icons-png.flaticon.com/512/1412/1412267.png">
  </div>
  
  ##
