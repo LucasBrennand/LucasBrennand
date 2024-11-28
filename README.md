@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
   ✨ Minha página: <br /> <br />
-  <a href="https://lucasbrennand.github.io/Portfolio/" target="_blank"> <img align"left" alt="Lucas' CV" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/1412/1412267.png">
+  <a href="https://lucasbrennand.github.io/Portfolio-2024.2/" target="_blank"> <img align"left" alt="Lucas' CV" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/1412/1412267.png">
  </div>
  
  ##
