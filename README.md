@@ -1,5 +1,21 @@
 ![Header](./github-header-banner.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A844F7&width=435&lines=Hi+there%2C+my+name+is+Lucas)](https://git.io/typing-svg)
+<div style="display: flex" align="center">
+  <img src="./astronaut.gif" width="300px" alt="astronaut gif">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=149cfc&width=435&lines=Hi+there%2C+my+name+is+Lucas!)](https://git.io/typing-svg)
+</div>
+
+##
+
+<a href="https://github.com/LucasBrennand?tab=repositories&sort=stargazers">
+  <img alt="Github Stats" width="150px" title="Total stars on GitHub" src="https://img.shields.io/github/stars/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/LucasBrennand?tab=followers">
+  <img alt="Followers" width="200px" title="Total followers on GitHub" src="https://img.shields.io/github/followers/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
+</a>
+<a href="https://komarev.com/ghpvc/?username=LucasBrennand">
+  <img alt="Total Profile Views" title="Total Profile views" width="130px" src="https://komarev.com/ghpvc/?username=LucasBrennand&color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&label=VIEWS"/>
+</a>
 
 *I'm a Fullstack Developer!*
 
