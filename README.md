@@ -8,13 +8,13 @@
 ##
 
 <a href="https://github.com/LucasBrennand?tab=repositories&sort=stargazers">
-  <img alt="Github Stats" width="150px" title="Total stars on GitHub" src="https://img.shields.io/github/stars/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
+  <img alt="Github Stats" width="100px" title="Total stars on GitHub" src="https://img.shields.io/github/stars/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/LucasBrennand?tab=followers">
-  <img alt="Followers" width="200px" title="Total followers on GitHub" src="https://img.shields.io/github/followers/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
+  <img alt="Followers" width="140px" title="Total followers on GitHub" src="https://img.shields.io/github/followers/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
 </a>
 <a href="https://komarev.com/ghpvc/?username=LucasBrennand">
-  <img alt="Total Profile Views" title="Total Profile views" width="130px" src="https://komarev.com/ghpvc/?username=LucasBrennand&color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&label=VIEWS"/>
+  <img alt="Total Profile Views" title="Total Profile views" width="90px" src="https://komarev.com/ghpvc/?username=LucasBrennand&color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&label=VIEWS"/>
 </a>
 
 *I'm a Fullstack Developer!*
@@ -91,22 +91,20 @@ languages: {
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-##
-##
+
 
 <div style="display: inline_block"><br>
   ✨ My page: <br /> <br />
   <a href="https://lucasbrennand.github.io/Portfolio-2024.2/" target="_blank"> <img align"left" alt="Lucas' CV" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/1412/1412267.png">
  </div>
- 
- ##
 
-
+<h2>Want to get in touch?</h2>
 <div style="display: inline_block"><br>
-  <a href="mailto:lucasbrennand.barbosa@gmail.com " target="_blank"> <img align"center" alt="Lucas' Gmail" height="25" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://www.linkedin.com/in/lucas-brennand-9121b2205" target="_blank"><img align"center" alt="Lucas' Linkedln" height="25" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="http://discordapp.com/users/%C6%A8%C9%92%C9%94%CF%85%E2%85%83#4335" target=_blank><img align"center" alt="Lucas' Discord" height="25" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://www.instagram.com/lucasbbrennand/" target="blank"><img align"center" alt="Lucas' Instagram" height="60px" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="mailto:lucasbrennand.barbosa@gmail.com " target="_blank"> <img align"center" alt="Lucas' Gmail" height="25" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://wa.me/5581995697350" target="_blank"> <img align"center" alt="whatsapp" height="25" width="110" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white" />
+    <a href="https://www.linkedin.com/in/lucas-brennand-9121b2205" target="_blank"><img align"center" alt="Lucas' Linkedln" height="25" width="110" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
+    <a href="http://discordapp.com/users/%C6%A8%C9%92%C9%94%CF%85%E2%85%83#4335" target=_blank><img align"center" alt="Lucas' Discord" height="25" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="https://www.instagram.com/lucasbbrennand/" target="blank"><img align"center" alt="Lucas' Instagram" height="60px" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
 <!--
 **lucas2020109662/lucas2020109662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
