@@ -62,8 +62,8 @@ languages: {
 
 <div>
   <a href="https://github.com/LucasBrennand">
-  <img height="300px" width="500px" alt="LucasBrennand Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucasBrennand&&color=149cfcshow_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="217px" width="400px" alt="LucasBrennand Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrennand&layout=compact&langs_count=7&theme=aura"/>
+  <img height="300px" width="450px" alt="LucasBrennand Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucasBrennand&&color=149cfcshow_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="217px" width="300px" alt="LucasBrennand Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrennand&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 ##
