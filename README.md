@@ -7,17 +7,23 @@
 
 ##
 
-<a href="https://github.com/LucasBrennand?tab=repositories&sort=stargazers">
-  <img alt="Github Stats" width="100px" title="Total stars on GitHub" src="https://img.shields.io/github/stars/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/LucasBrennand?tab=followers">
-  <img alt="Followers" width="140px" title="Total followers on GitHub" src="https://img.shields.io/github/followers/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=LucasBrennand">
-  <img alt="Total Profile Views" title="Total Profile views" width="90px" src="https://komarev.com/ghpvc/?username=LucasBrennand&color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&label=VIEWS"/>
-</a>
+<div align="center"> 
+  <a href="https://github.com/LucasBrennand?tab=repositories&sort=stargazers"> 
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/> 
+  </a> 
+  <a href="https://github.com/LucasBrennand?tab=followers"> 
+    <img alt="Followers" src="https://img.shields.io/github/followers/LucasBrennand?color=149cfc&style=for-the-badge&labelColor=1667a1&logo=github&logoColor=white"/> 
+  </a> 
+  <a href="https://komarev.com/ghpvc/?username=LucasBrennand"> 
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=LucasBrennand&color=149cfc&style=for-the-badge&labelColor=1667a1&label=VIEWS"/> 
+  </a> 
+</div>
 
-*I'm a Fullstack Developer!*
+<div align="center">
+  <i>
+    <b>Full Stack Developer • QA & Test Automation Engineer • Computer Science Graduate
+  </i>
+</div>
 
 ##
 
@@ -35,22 +41,43 @@
 
 ```js
 const lucas = {
-education: [
-degree: "Bachelors",
-name: "Computer Science",
-univeristy: "Catholic University of Pernambuco (UNICAP)"
-],
-expertise: [
-  "FullStack",
-  "Data Engineering",
-  "Data Science",
-  "Machine Learning",
-  "AI"
-]
-languages: {
-  pt: "Native",
-  en: "Native",
-  }
+  location: "Recife, Brazil",
+  education:
+    [
+      {
+        degree: "Bachelors. in Computer Science",
+        university: "UNICAP",
+        status: "Graduated"
+      },
+      {
+        degree: "Postgraduate Residency in Software",
+        university: "UFPE",
+        status: "In progress"
+      }
+    ],
+  currentRole: "Robotics QA Engineer",
+  company: "CIN Motorola",
+  areas:
+    [
+      "Software Development",
+      "Quality Assurance",
+      "Test Automation",
+      "Web Development",
+      "Mobile Testing"
+    ],
+  mainStack:
+    [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "Kotlin"
+    ],
+  languages:
+    {
+      portuguese: "Native",
+      english: "Fluent"
+    }
 };
 ```
 
