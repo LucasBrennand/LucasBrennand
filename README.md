@@ -68,7 +68,7 @@ const lucas = {
   mainStack:
     [
       "Python",
-      "JavaScript",
+      "React",
       "TypeScript",
       "Java",
       "Kotlin"
@@ -134,7 +134,7 @@ const lucas = {
     <a href="https://wa.me/5581995697350" target="_blank"> <img align"center" alt="whatsapp" height="25" width="110" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white" />
     <a href="https://www.linkedin.com/in/lucas-brennand-9121b2205" target="_blank"><img align"center" alt="Lucas' Linkedln" height="25" width="110" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
     <a href="http://discordapp.com/users/%C6%A8%C9%92%C9%94%CF%85%E2%85%83#4335" target=_blank><img align"center" alt="Lucas' Discord" height="25" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    <a href="https://www.instagram.com/lucasbbrennand/" target="blank"><img align"center" alt="Lucas' Instagram" height="60px" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://www.instagram.com/lucasbbrennand/" target="blank"><img align"center" alt="Lucas' Instagram" height="25" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
 <!--
 **lucas2020109662/lucas2020109662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
